@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Mini Enterprise Network Lab</b>
-  - [Network Setup using GNS3 VM and VirtualBox] 
+  - [Network Setup using GNS3 VM and VirtualBox]|(https://github.com/brilliantlylauren999/EnterpriseNetwork)
 
 <h2>Certifications</h2>
 
